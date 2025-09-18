@@ -1,2 +1,6 @@
-1   Learning Git nad GitHub
-2   
+# Bonus day - 02
+## Variable
+Container that store data
+ - Variable has two part
+    - identifier
+    - Value
